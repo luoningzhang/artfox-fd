@@ -1,0 +1,9 @@
+// .prettierrc
+{
+    "singleQuote": true,       // 使用单引号
+    "semi": true,              // 使用分号
+    "trailingComma": "es5",    // 在 ES5 中有效的位置使用尾随逗号
+    "printWidth": 80,           // 每行的最大长度
+    "tabWidth": 2               // 缩进空格数
+  }
+  
